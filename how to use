@@ -1,0 +1,4 @@
+cd sublist3r/ 
+
+
+./sublist3r.py -d abc.com // enumeration of subdomain using searchengine. 
